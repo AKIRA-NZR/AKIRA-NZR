@@ -15,24 +15,34 @@
 
 - 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** na **Universidade da Amazônia (UNAMA)**.
 - 💻 Apaixonado por desenvolvimento **Backend**, construção de **APIs RESTful** e modelagem de **Bancos de Dados**.
-- 🎯 Focado no estudo de **Arquitetura de Software** e preparando-me para o mercado de trabalho.
-- 💡 Buscando sempre aprender novas tecnologias, solucionar problemas reais e escrever código limpo e eficiente.
+- 🎯 Focado no estudo de **Arquitetura de Software**, microsserviços e boas práticas de código.
+- 💡 Buscando sempre aprender novas tecnologias, solucionar problemas reais e evoluir continuamente.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### **Linguagens & Backend**
+### **Backend & Linguagens**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Bancos de Dados & Ferramentas de Build / DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Inteligência Artificial & Ferramentas**
+### **Inteligência Artificial & Outros**
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF6F61?style=for-the-badge&logo=claude&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -40,15 +50,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=AKIRA-NZR&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="175" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AKIRA-NZR&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="175" alt="Linguagens mais usadas" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKIRA-NZR&theme=dark" alt="Perfil do GitHub" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AKIRA-NZR&theme=dark" alt="Estatísticas" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AKIRA-NZR&theme=dark" alt="Linguagens por Repositório" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=AKIRA-NZR&theme=dark&hide_border=false" alt="GitHub Streak" />
-
-### 🏆 Troféus no GitHub
-<img src="https://github-profile-trophy.vercel.app/?username=AKIRA-NZR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Troféus GitHub" />
 
 </div>
 
